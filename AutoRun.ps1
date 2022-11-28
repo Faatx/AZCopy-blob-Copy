@@ -55,6 +55,3 @@ foreach($t in $backupTable) {
 #AzCopy
 
 #.\azcopy.exe copy $SASURI $destinationLocation  --recursive=true
-
-
-#https://www.rlvision.com/blog/how-to-backup-and-restore-tables-in-azure-storage/
